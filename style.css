@@ -158,9 +158,20 @@ ul {
     font-size: 18px;
 }
 
-@media screen and (max-width: 640px) {
+/* @media screen and (max-width: 840px) {
     #header{
         padding: 1rem;
     }
 
-}
+    .sidebar {
+        display: none;
+    }
+
+    #main {
+        padding: 0;
+    }
+
+    #footer {
+        display: block;
+    }
+} */
